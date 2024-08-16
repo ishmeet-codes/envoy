@@ -1,0 +1,27 @@
+{
+  "name": "envoy",
+  "version": "1.0.0",
+  "description": "The messaging app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishmeet-codes/envoy.git"
+  },
+  "keywords": [
+    "messenger",
+    "electron"
+  ],
+  "author": "Ishmeet Singh Chadha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishmeet-codes/envoy/issues"
+  },
+  "homepage": "https://github.com/ishmeet-codes/envoy#readme",
+  "devDependencies": {
+    "electron": "^31.4.0"
+  }
+}
